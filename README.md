@@ -88,3 +88,8 @@ Name | Type                      | Required | Default value | Description
 <a href="https://github.com/ricard33/mui-daterange-picker/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=ricard33/mui-daterange-picker" />
 </a>
+
+## Memo
+1. clone
+2. yarn build를 이용한 빌드
+3. 모듈을 적용할 프로젝트 node_modules 디렉토리 안의 mui-daterange-picker 디렉토리의 dist, src를 날리고 현재 빌드 결과물을 넣어 사용
